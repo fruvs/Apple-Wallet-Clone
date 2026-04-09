@@ -24,3 +24,5 @@ I’m new to programming in Swift, and for the past few months I’ve been worki
 Im working on adding new stuff to make it closer to the app, the version thats being distributed is water marked because I’ve seen that people can use these types of apps for fraud and I don't want that happening
 
 I’ve mainly been focused on recreating the look and feel of Apple Wallet as closely as I can while learning Swift and SwiftUI.
+
+I will not open source this project but I am willing to share builds
