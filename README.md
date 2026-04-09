@@ -27,7 +27,10 @@ I’ve mainly been focused on recreating the look and feel of Apple Wallet as cl
 
 I will not open source this project but I am willing to share builds
 
-![Screenshot](/img/IMG_8241.png)
-![Screenshot](/img/IMG_8242.png)
-![Screenshot](/img/IMG_8243.png)
-![Screenshot](/img/IMG_8244.png)
+<p align="center">
+  <img src="./img/IMG_8241.PNG" width="220" />
+  <img src="./img/IMG_8242.PNG" width="220" />
+  <img src="./img/IMG_8240.PNG" width="220" />
+  <img src="./img/IMG_8243.PNG" width="220" />
+  <img src="./img/IMG_8244.PNG" width="220" />
+</p>
