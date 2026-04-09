@@ -26,3 +26,8 @@ Im working on adding new stuff to make it closer to the app, the version thats b
 I’ve mainly been focused on recreating the look and feel of Apple Wallet as closely as I can while learning Swift and SwiftUI.
 
 I will not open source this project but I am willing to share builds
+
+![Screenshot](/img/IMG_8241.png)
+![Screenshot](/img/IMG_8242.png)
+![Screenshot](/img/IMG_8243.png)
+![Screenshot](/img/IMG_8244.png)
