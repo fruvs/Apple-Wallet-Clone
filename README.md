@@ -26,6 +26,7 @@ Im working on adding new stuff to make it closer to the app, the version thats b
 I’ve mainly been focused on recreating the look and feel of Apple Wallet as closely as I can while learning Swift and SwiftUI.
 
 I will not open source this project but I am willing to share builds
+Im making these apps to improve my skills with iOS development and show my abilities off to potential employers 
 
 <p align="center">
   <img src="./img/IMG_8241.PNG" width="220" />
