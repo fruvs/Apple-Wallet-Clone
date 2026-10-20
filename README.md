@@ -1,8 +1,6 @@
 
 ## Apple Wallet Clone
 
-I’m new to programming in Swift, and for the past few months I’ve been working on building a clone of the Apple Wallet app because I couldn’t think of what else to build.
-
 ### Features
 
 - Motion support for the Cash card
